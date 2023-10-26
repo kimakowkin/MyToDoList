@@ -1,0 +1,8 @@
+bin/
+obj/
+*.csproj
+*.sln
+*.v2
+*.vsidx
+*.suo
+*.bin
